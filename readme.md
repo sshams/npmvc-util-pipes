@@ -9,6 +9,7 @@ Production - [Version 1.0.0](https://github.com/PureMVC/puremvc-js-util-pipes/bl
 
 ## Usage
 `var puremvc = require("npmvc");
+
 require("npmvc-util-pipes")(puremvc);`
 
 ## Platforms / Technologies
