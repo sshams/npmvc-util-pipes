@@ -1,6 +1,6 @@
 {
   "name": "npmvc-util-pipes",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "puremvc pipes",
   "engines": {
     "node": ">=0.10.13"
@@ -23,10 +23,12 @@
     "type": "git",
     "url": "https://github.com/sshams/npmvc-util-pipes.git"
   },
-  "licenses": [{
-    "type": "Creative Commons 3.0 Attribution US License",
-    "url": "http://creativecommons.org/licenses/by/3.0/us/"
-  }],
+  "licenses": [
+    {
+      "type": "Creative Commons 3.0 Attribution US License",
+      "url": "http://creativecommons.org/licenses/by/3.0/us/"
+    }
+  ],
   "dependencies": {
     "npmvc": ">= 1.0.5"
   },
