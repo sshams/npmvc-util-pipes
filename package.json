@@ -1,6 +1,6 @@
 {
   "name": "npmvc-util-pipes",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "puremvc pipes",
   "engines": {
     "node": ">=0.10.13"
