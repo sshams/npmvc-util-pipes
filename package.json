@@ -5,11 +5,11 @@
   "engines": {
     "node": ">=0.10.13"
   },
-  "author": {
-    "name": "Bill White",
-    "email": "bill.white@puremvc.org"
-  },
-  "contributors": [
+  "author": [
+    {
+      "name": "Bill White",
+      "email": "bill.white@puremvc.org"
+    },
     {
       "name": "Saad Shams",
       "email": "saad.shams@puremvc.org"
@@ -19,6 +19,10 @@
       "email": "robbert@buiswerk.info"
     }
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sshams/npmvc-util-pipes.git"
+  },
   "dependencies": {
     "npmvc": ">= 1.0.5"
   },

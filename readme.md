@@ -11,7 +11,7 @@ Production - [Version 1.0.0](https://github.com/PureMVC/puremvc-js-util-pipes/bl
 * [JavaScript](http://en.wikipedia.org/wiki/JavaScript)
 
 ## License
-* PureMVC JavaScript MultiCore Utility - Pipes (Ported) - Copyright © 2012 Bill White
+* PureMVC JavaScript MultiCore Utility - Pipes (Ported) - Copyright © 2012 Bill White, Robbert Streng, Saad Shams
 * PureMVC - Copyright © 2006-2012 Futurescale, Inc.
 * All rights reserved.
 
