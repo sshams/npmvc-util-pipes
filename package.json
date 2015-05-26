@@ -1,0 +1,33 @@
+{
+  "name": "npmvc-util-pipes",
+  "version": "1.0.0",
+  "description": "puremvc pipes",
+  "engines": {
+    "node": ">=0.10.13"
+  },
+  "author": {
+    "name": "Bill White",
+    "email": "bill.white@puremvc.org"
+  },
+  "contributors": [
+    {
+      "name": "Saad Shams",
+      "email": "saad.shams@puremvc.org"
+    },
+    {
+      "name": "Robbert Streng",
+      "email": "robbert@buiswerk.info"
+    }
+  ],
+  "dependencies": {
+    "npmvc": ">= 1.0.5"
+  },
+  "keywords": [
+    "puremvc",
+    "pipes"
+  ],
+  "main": "./index.js",
+  "directories": {
+    "lib": "./lib"
+  }
+}
