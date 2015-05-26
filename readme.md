@@ -7,6 +7,10 @@ This utility provides the capability for creating pipelines for passing messages
 ## Status
 Production - [Version 1.0.0](https://github.com/PureMVC/puremvc-js-util-pipes/blob/master/VERSION)
 
+## Usage
+var puremvc = require("npmvc");
+require("npmvc-util-pipes")(puremvc);
+
 ## Platforms / Technologies
 * [JavaScript](http://en.wikipedia.org/wiki/JavaScript)
 
